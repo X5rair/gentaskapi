@@ -34,4 +34,4 @@ async def root() -> dict[str, str]:
         "message": "Welcome to the Integration API",
         "version": "0.1.0",
         "docs": "/docs",
-    }
+    } 
