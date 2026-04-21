@@ -1,0 +1,38 @@
+# System files
+.DS_Store
+.Python
+.git
+.gitignore
+.github/
+
+# IDE
+.vscode/
+
+# Python cache & build artifacts
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info
+build
+dist
+.pytest_cache
+.coverage
+htmlcov
+
+# Environment files
+.env
+.env.local
+.env.*.local
+*.env/
+ENV/
+env/
+venv/
+.venv/
+
+# Documentation
+README.md
+*.md
+docs/

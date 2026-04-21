@@ -1,0 +1,2 @@
+"""Catalog feature package."""
+
